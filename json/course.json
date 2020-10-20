@@ -1,0 +1,17 @@
+[
+  {
+    "name": "React",
+    "time": 60,
+    "isFree": false
+  },
+  {
+    "name": "Angular",
+    "time": 75,
+    "isFree": false
+  },
+  {
+    "name": "Nodejs",
+    "time": 68,
+    "isFree": true
+  }
+]
